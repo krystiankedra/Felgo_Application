@@ -1,0 +1,8 @@
+{
+    "title": "BrandManagament",
+    "identifier": "com.yourcompany.wizardEVAP.BrandManagament",
+    "orientation": "auto",
+    "versioncode": 1,
+    "versionname": "1.0.0",
+    "stage": "test"
+}
