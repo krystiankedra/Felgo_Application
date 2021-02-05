@@ -16,7 +16,7 @@ Page {
         anchors.centerIn: parent
         padding: dp(15)
         fontSize: sp(30)
-        text: qsTr("Welcome to the application")
+        text: qsTr("Welcome to the Application")
     }
 
     AppText {
